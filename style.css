@@ -1,0 +1,38 @@
+h1{
+  text-transform: capitalize;
+  text-align: center;
+  color:blue;
+  background:yellowgreen;
+  margin:0px;
+  font-size: 70px;
+  border:10px dotted red;
+}
+h2{
+  text-transform:uppercase;
+  text-align: right;
+  color:aqua;
+  background: yellow;
+  margin:0px;
+  font-size: large;
+}
+h3,h5{
+  text-transform:lowercase;
+  text-align: justify;
+  color:blueviolet;
+  background:orangered;
+  margin:0px;
+  font-size: 50px;
+}
+h2,h4{
+  text-transform:none;
+  text-align: center;
+  color:green;
+
+  background: wheat;
+  margin:3px;
+  font-size: 60px;
+  border:5px solid black;
+}
+h5{
+border:10px groove green;
+}
